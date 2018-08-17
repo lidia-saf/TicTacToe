@@ -1,5 +1,7 @@
 # This is partially solved TIC TAC TOE Tutorial by React
 
+[Link to tutorial](https://reactjs.org/tutorial/tutorial.html)
+
 If you have extra time or want to practice your new React skills, here are some ideas for improvements that you could make to the tic-tac-toe game which are listed in order of increasing difficulty:
 
 1. Display the location for each move in the format (col, row) in the move history list. (DONE)
